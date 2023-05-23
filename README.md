@@ -1,2 +1,2 @@
-# microservice-shop-example
+# Microservice Shop Project
 Microservice project example.
